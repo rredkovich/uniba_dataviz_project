@@ -1,0 +1,7 @@
+jupyter
+numpy
+pandas==2.2
+seaborn
+matplotlib
+#mpl_toolkits
+plotly
