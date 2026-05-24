@@ -1,7 +1,7 @@
 jupyter
 numpy
 pandas==2.2
+Pyarrow
 seaborn
 matplotlib
-#mpl_toolkits
 plotly
